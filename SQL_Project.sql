@@ -4,7 +4,7 @@ Created date: 21/07/2025
 Description: This project uses SQL queries on WSDA Music to extract actionable insights from customer and sales data, spanning basic to advanced levels.
 */
 
-												Basic Questions 
+					  Basic Questions 
                                                 
 -- 1. List the names of all customers along with the country they belong to.
 
@@ -42,7 +42,7 @@ p.Name
 ORDER by
 Tracks desc
 
-												Moderate Questions 
+					Moderate Questions 
                                                 
 -- 4. Retrieve all invoice records where the total amount is greater than 1.98 and the billing city starts with either 'P' or 'D'.
 
@@ -104,7 +104,7 @@ GROUP BY
 e.EmployeeId
 
  
- 												Advanced Questions 
+ 					Advanced Questions 
                                                 
 /* 8. Write a SQL query that selects track names, composers, and unit prices, and categorizes each track based on its price.
 Price Categories:
