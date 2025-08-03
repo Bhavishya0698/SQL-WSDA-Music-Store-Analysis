@@ -17,6 +17,5 @@ To analyze customer behavior, invoice trends, employee performance, and revenue 
 - SQLite
 - DB Browser for SQLite
 
-Created By
-Bhavishya Sharma
-Date: 21 July 2025
+**Created by:** Bhavishya Sharma  
+**Date:** 21 July 2025
